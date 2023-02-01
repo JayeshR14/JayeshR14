@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Currently Preparing For Web Development Skills.<br>🐱‍👤 I’m currently Exploring New Technology.<br>🎓 I'm currently pursuing a Degree in Information Technology<br>
+🔭 I’m Currently Preparing For Web Development Skills.<br>🐱‍👤 I’m currently Exploring New Technology.<br>🎓 I'm currently pursuing a Degree in Information Technology<br>🔗Connect with me <a href="www.linkedin.com/in/jayesh-dhundhalva-7a293625b">www.linkedin.com/in/jayesh-dhundhalva-7a293625b</a>
 
 
 # 💻 Tech Stack:
